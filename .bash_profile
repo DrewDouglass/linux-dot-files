@@ -1,3 +1,3 @@
 # General Aliases
-alias ls='ls -GFha';
+alias ls='ls -al';
 alias sortBySize="ls -s | sort -n";
